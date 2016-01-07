@@ -2,7 +2,7 @@
   "name": "tinyble-gcc",
   "version": "0.0.1",
   "inherits": {
-    "nordic-nrf51822-gcc": "^1.0.0"
+    "nordic-nrf51822-gcc": "jacobrosenthal/nordic-nrf51822-gcc"
   },
   "description": "yotta Target Description using GCC to compile for Seeed TinyBLE 16KB device.",
   "homepage": "https://github.com/jacobrosenthal/target-mkit-gcc",
@@ -37,6 +37,7 @@
         "LED1": "p21",
         "LED2": "p22",
         "LED3": "p23",
+        "LED4": "p23",
         "BUTTON1": "p17",
         "RX_PIN_NUMBER": "p9",
         "TX_PIN_NUMBER": "p11",
