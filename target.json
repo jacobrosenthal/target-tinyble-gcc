@@ -2,12 +2,12 @@
   "name": "tinyble-gcc",
   "version": "0.0.1",
   "inherits": {
-    "nordic-nrf51822-gcc-unofficial-fota"
+    "nordic-nrf51822-gcc-unofficial-fota": "^1.0.0"
   },
-  "description": "yotta Target Description using GCC to compile for Seeed TinyBLE 16KB device.",
-  "homepage": "https://github.com/jacobrosenthal/target-mkit-gcc",
+  "description": "Unofficial yotta Target Description using GCC to compile for Seeed TinyBLE 16KB device.",
+  "homepage": "https://github.com/jacobrosenthal/target-tinyble-gcc",
   "repository": {
-    "url": "git@github.com:jacobrosenthal/target-mkit-gcc.git",
+    "url": "git@github.com:jacobrosenthal/target-tinyble-gcc.git",
     "type": "git"
   },
   "licenses": [
