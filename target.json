@@ -1,6 +1,6 @@
 {
   "name": "tinyble-gcc",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "inherits": {
     "nordic-nrf51822-gcc-unofficial-fota": "^1.0.0"
   },
