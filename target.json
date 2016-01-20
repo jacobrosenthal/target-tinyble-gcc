@@ -17,6 +17,9 @@
     }
   ],
   "keywords": [
+    "mbed-target:nrf51822",
+    "nrf51822",
+    "nordic",
     "gcc"
   ],
   "similarTo": [
@@ -58,6 +61,12 @@
   "scripts": {
     "debug": [
       "valinor",
+      "--target",
+      "NRF51822",
+      "$program"
+    ],
+    "test": [
+      "mbed_test_wrapper",
       "--target",
       "NRF51822",
       "$program"
