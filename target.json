@@ -49,7 +49,9 @@
         "SPI_PSELSS0": "p5",
         "SPI_PSELSCK0": "p6",
         "I2C_SDA0": "p18",
-        "I2C_SCL0": "p19"
+        "I2C_SCL0": "p19",
+        "I2C_SDA1": "p12",
+        "I2C_SCL1": "p13"
       }
     }
   },
