@@ -17,13 +17,16 @@
     }
   ],
   "keywords": [
-    "mbed-target:nrf51822",
+    "seeed",
+    "mbed-target:arch_ble",
+    "ble",
     "nrf51822",
     "nordic",
     "gcc"
   ],
   "similarTo": [
-    "mkit"
+    "mkit",
+    "nrf51dk"
   ],
   "config": {
     "nrf51822": {
