@@ -65,13 +65,13 @@
     "debug": [
       "valinor",
       "--target",
-      "NRF51822",
+      "ARCH_BLE",
       "$program"
     ],
     "test": [
       "mbed_test_wrapper",
       "--target",
-      "NRF51822",
+      "ARCH_BLE",
       "$program"
     ]
   }
