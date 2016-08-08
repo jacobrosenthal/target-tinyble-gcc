@@ -1,8 +1,8 @@
 {
-  "name": "tinyble-gcc",
+  "name": "tinyble-gcc-nofota",
   "version": "0.0.8",
   "inherits": {
-    "nordic-nrf51822-gcc-unofficial-fota": "^1.0.0"
+    "nordic-nrf51822-gcc": "^1.0.0"
   },
   "description": "UNOFFICIAL mbed build target for the Seeed Tiny BLE (16K RAM nRF51822) platform.",
   "homepage": "https://github.com/jacobrosenthal/target-tinyble-gcc",
