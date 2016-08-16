@@ -17,7 +17,7 @@
     }
   ],
   "keywords": [
-    "mbed-target:tiny_ble",
+    "mbed-target:ARCH_BLE",
     "gcc"
   ],
   "similarTo": [
