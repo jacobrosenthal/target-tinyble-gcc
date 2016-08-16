@@ -1,6 +1,6 @@
 {
   "name": "tinyble-gcc-nofota",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "inherits": {
     "nordic-nrf51822-gcc": "^1.0.0"
   },
